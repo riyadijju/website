@@ -9,13 +9,15 @@
     display: flex;
 }
 .content {
-    width: 50%;
+    width: 550%;
     background-color: rgb(12, 59, 46);
+    height: auto;
     
 }
-#image{
-    width: 100%;
-    float:left;
+img{
+    width: 450%;
+    float:right;
+    height: 650px;
 }
 .container, .content img{
    
